@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\dcd1dc9dfc1a654462dcb74b08bfa2753a3c7c7e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_b3a367cc5a66365722d5e257ff2d71e6c557e821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_654a1c71889d7bd4d690d9708c2869def26f828f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\45d329dca886e940dddc9f85588bba33210310a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_5b62b2713680210403a582bdf7bab2650ac9c3a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\bac700d447e9f8d0a2ed681e06672cfd69f49cdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_a9ba484112633e0a3c49ce8b0a12c71722cfb5c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="B:\Assignment\MQTT-master\MQTT-master\app\libs\org.eclipse.paho.client.mqttv3-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04a01ab5a826d8a24bbf32fde14d03f15ab03a96">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.1.1_5ec436a2e8315dfb723affb11e10f3c830ae072c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\2332f3f399821e05191278889c587ff8063d987f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_e6aadea7937c3b382fd45e2925816c97936d4552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\d3810a4987372ebb4b1c84b2ab37a2e99fe9e1c8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_b79c9e0fd2ca78c0883f7e7997c8ec8eb0fee304.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="B:\Assignment\MQTT-master\MQTT-master\app\libs\org.eclipse.paho.android.service-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c3c5ef8f5f205def0f725b6c0f57217c8fb9ff5">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.android.service-1.1.1_4edf975565969a188aea15cde2bfef2641611ab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\1c073356935c0e11501702baf3f5f4785f9a9e53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_3a92b00d15b3fe173fcf048d9cc8e27dd50500a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\71a8191b3dc3c8917674360f0031e11f609c7b5e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_ec2abac3d7a9ce1d26a63bab359598334a9009a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\6ba9fb7b6fed32390423e52e161b5ad4ec5b3c62\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_ce84dd4f949b2bfe7a8c02c90057b541ba3a0c8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_55032c203a65275a826e8c7ff7d716926d3eca43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\b1217802d9d441dfbf9fcace1b9652d2912c008e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_3acabcae2c2b8118365bc4dd49c1f7347844c965.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Charan hacker\.android\build-cache\2dd14cd3660ff768c66036b82cb9010678424a1c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="B:\Assignment\MQTT-master\MQTT-master\app\build\intermediates\pre-dexed\debug\classes_6bdd7c85aa48247b71c87195508b7daff3cbd3e6.jar" />
+    </item>
+
+</items>
